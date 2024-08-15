@@ -4,8 +4,7 @@
     <title>Tags on WebStack-Hugo 网址导航</title>
     <link>https://bioit.top/tags/</link>
     <description>Recent content in Tags on WebStack-Hugo 网址导航</description>
-    <generator>Hugo</generator>
-    <language>zh-CN</language>
-    <atom:link href="https://bioit.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://bioit.top/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
